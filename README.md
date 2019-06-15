@@ -26,3 +26,8 @@ python kmeans.py
 ![K-means_GUI](https://user-images.githubusercontent.com/9330755/59557117-629d6400-900c-11e9-9adc-a7981399b588.png)
 
 ![kmeans](https://user-images.githubusercontent.com/9330755/59557141-41894300-900d-11e9-8eed-3f30309075f5.png)
+
+
+# xclara.csv
+credits to @mubaris
+https://github.com/mubaris/friendly-fortnight/blob/master/xclara.csv
